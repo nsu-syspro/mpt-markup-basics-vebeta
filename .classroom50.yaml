@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mpt"
+assignment: "markup-basics"
+owner:
+  username: "vebeta"
+  id: 154799552
+  accepted_at: "2026-10-16T11:29:48Z"
+source:
+  owner: "nsu-syspro"
+  owner_id: 115493553
+  repo: "mpt-markup-basics"
+  branch: "main"
